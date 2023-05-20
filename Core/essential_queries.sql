@@ -58,6 +58,10 @@ SELECT name, major
 FROM student
 WHERE major = "CompSci" OR major = "Engineering";
 
+SELECT *
+FROM student
+WHERE name IN ("Horik", "Tudorel");
+
 /* Retrieve information about the structure of a table.
    It provides metadata about the columns or fields within a table. */
 DESCRIBE student;
