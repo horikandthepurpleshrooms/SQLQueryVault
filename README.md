@@ -1,6 +1,6 @@
-# query-vault
+# SQLQueryVault
 
-Let's learn SQL together!
+A curated library of SQL commands and examples to help you enhance your SQL proficiency.
 
 ## Overview
 
